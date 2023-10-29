@@ -1,1 +1,1 @@
-# Laberinto en Tiempo Real con Cámara Web y OpenCV
+# Superposición de Laberinto en Tiempo Real con Cámara Web y OpenCV
