@@ -1,2 +1,1 @@
-# Laberinto-en-Tiempo-Real-con-C-mara-Web-OpenCV
-Laberinto en Tiempo Real en tu Cámara Web con OpenCV
+# Laberinto en Tiempo Real con Cámara Web y OpenCV
