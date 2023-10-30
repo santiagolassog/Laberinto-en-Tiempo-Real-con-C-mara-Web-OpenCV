@@ -44,3 +44,7 @@ python 3.Superponer_Img_Laberinto.py
 ## Personalización
 
 Puedes personalizar el laberinto modificando la matriz laberinto. Cambia los valores '0' para representar espacios libres y '1' para representar paredes. Además, puedes reemplazar la imagen de las paredes, agregando tus propias imágenes en el directorio 'Images'.
+
+## Créditos
+
+Este juego fue desarrollado por [**Santiago Lasso**](https://santiagolasso.com/) como un proyecto de aprendizaje práctico de **Computer Vision**.
