@@ -50,6 +50,12 @@ python 3.Superponer_Img_Laberinto.py
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV/assets/27078128/57403f8a-85d0-423d-8de3-df7d7da74576" alt="Laberinto_Img4"></td>
+    <td><img src="https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV/assets/27078128/49d7116e-bc16-4a56-bf04-4c4f0c59f7ff" alt="Laberinto_Img3"></td>
+  </tr>
+</table>
 
 Puedes personalizar el laberinto modificando la matriz laberinto. Cambia los valores '0' para representar espacios libres y '1' para representar paredes. Además, puedes reemplazar la imagen de las paredes, agregando tus propias imágenes en el directorio 'Images'.
 
