@@ -31,8 +31,10 @@ Clona el repositorio y luego instala las dependencias utilizando pip:
 ```bash
 git clone https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV.git
 cd Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV.git
+```
 
 ## Uso
 Ejecuta el proyecto utilizando el siguiente comando:
 ```bash
 python 1. Superponer_Img_Laberinto.py
+```
