@@ -16,7 +16,7 @@ Puedes ver una demostración del proyecto en el GIF animado de arriba. Este proy
 
 Para ejecutar este proyecto, necesitas:
 
-- Python 3.11.
+- Python 3.6 o superior.
 - La librería OpenCV (`opencv-python`).
 - Imágenes de las paredes del laberinto.
 
@@ -24,22 +24,19 @@ Asegúrate de tener estos requisitos instalados antes de ejecutar el proyecto.
 
 ## Instalación
 
-Clona el repositorio y luego instala las dependencias utilizando pip:
-
-```bash
-git clone https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV.git
-cd Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV
-```
+Clona o descarga este repositorio en tu máquina local.
+Asegúrate de tener Python y OpenCV instalados.
 
 ## Uso
 Puedes ejecuta el proyecto por pasos. Primero puedes ejecutar la lectura de cámara con el siguiente comando:
 ```bash
 python 1.Leer_Camara.py
 ```
-Y después puedes correr el código de superposición de cuadrados rojos, y finalmente el código que reemplaza las paredes con tus imágenes:
+Después puedes correr el código de superposición de cuadrados rojos:
 ```bash
 python 2.Superponer_Cuadrados.py
 ```
+Y finalmente, puede ejecutar el código que reemplaza las paredes con tus imágenes:
 ```bash
 python 3.Superponer_Img_Laberinto.py
 ```
