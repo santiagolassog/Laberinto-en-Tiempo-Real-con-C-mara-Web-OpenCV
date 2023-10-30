@@ -41,5 +41,7 @@ python 1.Leer_Camara.py
 Y después puedes correr el código de superposición de cuadrados rojos, y finalmente el código que reemplaza las paredes con tus imágenes:
 ```bash
 python 2.Superponer_Cuadrados.py
-python 3.Superponer_Celdas_Img.py
+```
+```bash
+python 3.Superponer_Img_Laberinto.py
 ```
