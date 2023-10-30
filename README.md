@@ -30,11 +30,16 @@ Clona el repositorio y luego instala las dependencias utilizando pip:
 
 ```bash
 git clone https://github.com/santiagolassog/Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV.git
-cd Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV.git
+cd Superposicion-Imagen-Laberinto-en-Tiempo-Real-con-Camara-Web-OpenCV
 ```
 
 ## Uso
-Ejecuta el proyecto utilizando el siguiente comando:
+Puedes ejecuta el proyecto por pasos. Primero puedes ejecutar la lectura de cámara con el siguiente comando:
 ```bash
-python 1. Superponer_Img_Laberinto.py
+python 1.Leer_Camara.py
+```
+Y después puedes correr el código de superposición de cuadrados rojos, y finalmente el código que reemplaza las paredes con tus imágenes:
+```bash
+python 2.Superponer_Cuadrados.py
+python 3.Superponer_Celdas_Img.py
 ```
