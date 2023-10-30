@@ -7,8 +7,6 @@ Este proyecto te permite superponer un laberinto personalizado sobre una transmi
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Personalización](#personalización)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Demostración
 
@@ -45,3 +43,7 @@ python 2.Superponer_Cuadrados.py
 ```bash
 python 3.Superponer_Img_Laberinto.py
 ```
+
+## Personalización
+
+Puedes personalizar el laberinto modificando la matriz laberinto. Cambia los valores '0' para representar espacios libres y '1' para representar paredes. Además, puedes reemplazar la imagen de las paredes, agregando tus propias imágenes en el directorio 'Images'.
