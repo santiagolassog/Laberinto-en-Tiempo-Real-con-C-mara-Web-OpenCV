@@ -24,6 +24,9 @@ while True:
     # Voltea horizontalmente el fotograma
     frame = cv2.flip(frame, 1)
 
+    # Cambia el tamaño del fotograma para que coincida con el tamaño de la ventana
+    frame = cv2.resize(frame, (width, height), interpolation=cv2.INTER_CUBIC)
+
     # Muestra los fotogramas en la ventana
     cv2.imshow('Laberinto Real Time con OpenCV', frame)
 
